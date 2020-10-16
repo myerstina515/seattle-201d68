@@ -1,1 +1,36 @@
 /* TODO: Make it awesome */
+html {
+background-image: linear-gradient(lightblue, lightgrey);
+}
+h1 {
+  font-size: 35px;
+  text-align: center;
+}
+ul li {
+  list-style-type: circle;
+  margin: 10px;
+  margin-left: 30px;
+}
+ol li {
+  list-style-type: decimal;
+  margin: 10px;
+  margin-left: 30px;
+}
+fieldset {
+  border: grey 15px ridge;
+  height: 400px;
+
+}
+table {
+  width: 600px;
+  height: 200px;
+  border: grey 10px ridge;
+}
+footer {
+  background-color: grey;
+  color: black;
+  font-size: 12px;
+  padding: 15px;
+  text-align: center;
+  margin-top: 40px;
+}
